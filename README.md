@@ -31,4 +31,4 @@ yarn lint
 | --- | --- | --- |
 | VUE_APP_BASE_API_URL | http://localhost:8000 | URL for the backend api |
 
-Test update
+Test update 2 
